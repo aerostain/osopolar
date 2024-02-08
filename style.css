@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Tahoma";
+    background-color: #202020;
+    color: yellow;
+}
+
+
